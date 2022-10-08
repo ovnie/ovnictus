@@ -30,6 +30,8 @@ session_start();
 			<article>
 				<h1><strong>Projet sur la recherche et l'étude des ovnis</strong></h1>
 				<p class="textCenter"><img src="./images/project.png" alt="Image" /></p>
+				<p class="textCenter">2022 - 21 novembre : Colloque sur le sujet de la zone 51 - Paris, France.</p>
+				<p class="textCenter">2022 - 31 novembre : Colloque sur les rapports déclassifiés américains - Toulon, France.</p>
 				<h1><strong>État d'avancement du site</strong></h1>
 				<?php
 				//On récupère les 5 dernières actualités :
