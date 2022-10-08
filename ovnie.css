@@ -191,7 +191,14 @@ footer{
 
 @media all and (max-width: 1024px)
 {
-	ul li {display:inline;}
+	li{
+		display:inline;
+		margin : 3px;
+	}
+	
+	.connect{
+		width: 40%;
+	}
 	
 	header{
 		height: 100%;
