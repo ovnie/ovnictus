@@ -1,0 +1,2 @@
+<a href="./informations.php#qui">Qui sommes-nous ?</a>/<a href="./informations.php#policy">Cookies</a>/<a href="./informations.php#recrutement">Recrutement</a>/<a href="./informations.php#contact">Contact</a>
+<br>© Droits d'auteur - Ovnictus.com, 2022. Tous droits réservés.
